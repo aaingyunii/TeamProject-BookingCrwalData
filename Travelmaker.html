@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TravelMaker</title>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
+.myLink {display: none}
+</style>
+<script type="text/javascript">
+  
+    function showMonth(str){
+
+      $mth = str;
+      $link = "Search?month=$mth.php";
+      
+    }
+
+    function searchbtnClick(){
+      var x = document.getElementById("selectMonth").value;
+      //$link = "Search?month=x.php";
+      location.href = "Search.php?q="+x;
+    }
+  
+  </script>
+
+</head>
+
+<body class="w3-light-grey">
+
+<!-- Navigation Bar -->
+<div class="w3-bar w3-white w3-border-bottom w3-xlarge">
+  <a href="#" class="w3-bar-item w3-button w3-text-red w3-hover-red"><b><i class="fa fa-map-marker w3-margin-right"></i>TravelMaker</b></a>
+  <a href="#" class="w3-bar-item w3-button w3-right w3-hover-red w3-text-grey"><i class="fa fa-search"></i></a>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-hide-small" style="max-width:1500px">
+  <img class="w3-image" src="https://thecorrespondent.in/wp-content/uploads/2019/03/London-Travel-Guide-achiterual-digest.jpg" alt="London" width="1500" height="700">
+  <div class="w3-display-middle" style="width:55%">
+   <div class="w3-bar w3-black"> 
+   	<button class="w3-bar-item w3-button tablink" onclick="openLink(event, 'Flight');"><i class="fa fa-plane w3-margin-right"></i>Flight</button>
+    </div>
+
+
+
+  <!-- Tabs -->
+    <div id="Flight" class="w3-container w3-white w3-padding-16 myLink">
+      <h3 style="text-align:center; font-size:30px;">Travel the world with us</h3>
+      <div class="w3-row-padding" style="margin:0 -16px; width:150%">
+        <div class="w3-half">
+           
+      <form method =POST action=Search.php >
+        <div class="fallbackDatePicker w3-right">
+    				<div>
+      				<span>
+       	 			<select  id = "selectMonth" name="month" >
+          			<option value='1월'>January</option>
+          			<option value='2월'>February</option>
+          			<option value='3월'>March</option>
+          			<option value='4월'>April</option>
+          			<option value='5월'>May</option>
+          			<option value='6월'>June</option>
+          			<option value='7월'>July</option>
+         			 <option value='8월'>August</option>
+          			<option value='9월'>September</option>
+          			<option value='10월'>October</option>
+          			<option value='11월'>November</option>
+          			<option value='12월'>December</option>
+        			</select>
+      				</span>
+    				</div>
+  				</div>
+      </form>
+         
+        </div>
+      </div>
+
+
+      <p><button id = "search_btn" class="w3-button w3-dark-grey w3-right" onclick= "searchbtnClick();">Search</button></p>
+    </div>
+  </div>
+</header>
+  
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px;">
+
+  <!-- Good offers -->
+  <div class="w3-container w3-margin-top">
+    <h3>You can go anywhere you want</h3>
+  </div>
+  <div class="w3-row-padding w3-text-white w3-large">
+    <div class="w3-half w3-margin-bottom">
+      <div class="w3-display-container">
+        <img src="https://d36tnp772eyphs.cloudfront.net/blogs/1/2011/05/italy-1200x815.jpg" alt="Italy" style="width:100%">
+        <span class="w3-display-bottomleft w3-padding">Italy</span>
+      </div>
+    </div>
+    <div class="w3-half">
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img src="https://previews.123rf.com/images/masterlu/masterlu1204/masterlu120400001/13095699-new-york-city-3-%EC%9B%94-25-%EC%9D%BC-%EB%B8%8C%EB%A1%9C%EB%93%9C-%EC%9B%A8%EC%9D%B4-%EA%B7%B9%EC%9E%A5-%EB%B0%8F-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%ED%83%80%EC%9E%84-%EC%8A%A4%ED%80%98%EC%96%B4-led-%ED%91%9C%EC%A7%80%ED%8C%90-%EB%A7%A8%ED%95%98%ED%83%84-%EB%89%B4%EC%9A%95%EC%8B%9C%EC%97%90%EC%84%9C-%EB%89%B4%EC%9A%95%EC%8B%9C%EC%99%80-%EB%AF%B8%EA%B5%AD-3-%EC%9B%94-25-%EC%9D%BC-2012-%EB%85%84%EC%9D%98-%EC%83%81%EC%A7%95%EC%9E%85%EB%8B%88%EB%8B%A4-%EB%AF%B8.jpg" alt="New York" style="width:100%"height="100%">
+            <span class="w3-display-bottomleft w3-padding">New York</span>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img src="https://previews.123rf.com/images/tomas1111/tomas11111602/tomas1111160200076/53131285-%E3%83%90%E3%83%AB%E3%82%BB%E3%83%AD%E3%83%8A-%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%80%81%E3%82%B0%E3%82%A8%E3%83%AB%E5%85%AC%E5%9C%92.jpg" alt="Spain" style="width:100%" height="100%">
+            <span class="w3-display-bottomleft w3-padding">Spain</span>
+          </div>
+        </div>
+      </div>
+      <div class="w3-row-padding" style="margin:0 -16px">
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img src="http://www.gotsaga.com/Media/showPhotoOptimized/filename/a9d36e6db4c1a56fc4d5ae388d5e40c2/size/custom" alt="Greece" style="width:100%" height="100%">
+            <span class="w3-display-bottomleft w3-padding">Greece</span>
+          </div>
+        </div>
+        <div class="w3-half w3-margin-bottom">
+          <div class="w3-display-container">
+            <img src="https://media.tacdn.com/media/attractions-splice-spp-360x240/06/74/aa/fc.jpg" alt="Paris" style="width:100%" height="100%">
+            <span class="w3-display-bottomleft w3-padding">Paris</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Explore Nature -->
+  <div class="w3-container">
+    <h3>Explore Nature</h3>
+    <p>Travel with us and see nature at its finest.</p>
+  </div>
+  <div class="w3-row-padding">
+    <div class="w3-half w3-margin-bottom">
+      <img src="https://www.pandotrip.com/wp-content/uploads/2016/06/fjords-Photo-from-Norway-Travel-Guide.jpg" alt="Norway" style="width:100%">
+      <div class="w3-container w3-white" style="width:100%">
+        <h3>Fjord, Norway</h3>
+       </div>
+    </div>
+    <div class="w3-half w3-margin-bottom">
+      <img src="https://www.firstpagedigital.sg/wp-content/uploads/Holiday-Planning.jpg" alt="Austria" style="width:100%">
+      <div class="w3-container w3-white">
+        <h3>Mountains, Austria</h3>
+    </div>
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-center w3-opacity w3-margin-bottom">
+  <h5>Find Us On</h5>
+  <div class="w3-xlarge w3-padding-16">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+  </div>
+</footer>
+
+<script>
+// Tabs
+function openLink(evt, linkName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("myLink");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-red", "");
+  }
+  document.getElementById(linkName).style.display = "block";
+  evt.currentTarget.className += " w3-red";
+}
+
+// Click on the first tablink on load
+document.getElementsByClassName("tablink")[0].click();
+</script>
+
+</body>
+</html>

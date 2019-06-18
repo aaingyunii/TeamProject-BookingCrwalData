@@ -1,0 +1,1395 @@
+{
+	"부산": {
+		"family": 63,
+		"couple": 89,
+		"friends": 93,
+		"solo": 87,
+		"business": 24
+	},
+	"서울": {
+		"family": 1,
+		"couple": 21,
+		"friends": 13,
+		"solo": 303,
+		"business": 5
+	},
+	"도쿄": {
+		"family": 39,
+		"couple": 74,
+		"friends": 6,
+		"solo": 74,
+		"business": 9
+	},
+	"제주": {
+		"family": 47,
+		"couple": 102,
+		"friends": 50,
+		"solo": 417,
+		"business": 27
+	},
+	"라스베이거스": {
+		"family": 1150,
+		"couple": 759,
+		"friends": 101,
+		"solo": 126,
+		"business": 104
+	},
+	"여수": {
+		"family": 72,
+		"couple": 74,
+		"friends": 39,
+		"solo": 91,
+		"business": 12
+	},
+	"오사카": {
+		"family": 10,
+		"couple": 52,
+		"friends": 10,
+		"solo": 10,
+		"business": 0
+	},
+	"속초": {
+		"family": 109,
+		"couple": 267,
+		"friends": 89,
+		"solo": 273,
+		"business": 8
+	},
+	"파리": {
+		"family": 84,
+		"couple": 180,
+		"friends": 5,
+		"solo": 26,
+		"business": 34
+	},
+	"다낭": {
+		"family": 269,
+		"couple": 288,
+		"friends": 97,
+		"solo": 74,
+		"business": 38
+	},
+	"홍콩": {
+		"family": 1107,
+		"couple": 1830,
+		"friends": 119,
+		"solo": 774,
+		"business": 795
+	},
+	"강릉": {
+		"family": 13,
+		"couple": 15,
+		"friends": 27,
+		"solo": 231,
+		"business": 14
+	},
+	"뉴욕": {
+		"family": 703,
+		"couple": 2877,
+		"friends": 97,
+		"solo": 1068,
+		"business": 727
+	},
+	"경주": {
+		"family": 145,
+		"couple": 152,
+		"friends": 63,
+		"solo": 55,
+		"business": 3
+	},
+	"삿포로": {
+		"family": 16,
+		"couple": 33,
+		"friends": 19,
+		"solo": 408,
+		"business": 33
+	},
+	"싱가포르": {
+		"family": 1510,
+		"couple": 2927,
+		"friends": 181,
+		"solo": 889,
+		"business": 846
+	},
+	"하노이": {
+		"family": 89,
+		"couple": 222,
+		"friends": 30,
+		"solo": 65,
+		"business": 22
+	},
+	"방콕": {
+		"family": 36,
+		"couple": 184,
+		"friends": 115,
+		"solo": 863,
+		"business": 63
+	},
+	"대구": {
+		"family": 58,
+		"couple": 73,
+		"friends": 70,
+		"solo": 88,
+		"business": 21
+	},
+	"전주": {
+		"family": 41,
+		"couple": 61,
+		"friends": 15,
+		"solo": 28,
+		"business": 2
+	},
+	"파타야 센트럴": {
+		"family": 19,
+		"couple": 51,
+		"friends": 52,
+		"solo": 327,
+		"business": 14
+	},
+	"유후": {
+		"family": 147,
+		"couple": 81,
+		"friends": 21,
+		"solo": 2,
+		"business": 0
+	},
+	"부다페스트": {
+		"family": 65,
+		"couple": 6,
+		"friends": 26,
+		"solo": 2,
+		"business": 5
+	},
+	"마닐라": {
+		"family": 50,
+		"couple": 91,
+		"friends": 4,
+		"solo": 52,
+		"business": 38
+	},
+	"로스앤젤레스": {
+		"family": 25,
+		"couple": 131,
+		"friends": 6,
+		"solo": 5,
+		"business": 2
+	},
+	"호찌민": {
+		"family": 15,
+		"couple": 87,
+		"friends": 12,
+		"solo": 78,
+		"business": 8
+	},
+	"시드니": {
+		"family": 69,
+		"couple": 19,
+		"friends": 4,
+		"solo": 4,
+		"business": 8
+	},
+	"서귀포": {
+		"family": 190,
+		"couple": 170,
+		"friends": 35,
+		"solo": 82,
+		"business": 39
+	},
+	"후쿠오카": {
+		"family": 12,
+		"couple": 31,
+		"friends": 17,
+		"solo": 222,
+		"business": 35
+	},
+	"바르셀로나": {
+		"family": 176,
+		"couple": 729,
+		"friends": 23,
+		"solo": 117,
+		"business": 96
+	},
+	"통영": {
+		"family": 68,
+		"couple": 27,
+		"friends": 8,
+		"solo": 22,
+		"business": 3
+	},
+	"인천": {
+		"family": 72,
+		"couple": 85,
+		"friends": 26,
+		"solo": 140,
+		"business": 19
+	},
+	"춘천": {
+		"family": 23,
+		"couple": 32,
+		"friends": 35,
+		"solo": 87,
+		"business": 28
+	},
+	"타이베이": {
+		"family": 192,
+		"couple": 167,
+		"friends": 120,
+		"solo": 1316,
+		"business": 301
+	},
+	"남해": {
+		"family": 45,
+		"couple": 41,
+		"friends": 4,
+		"solo": 2,
+		"business": 0
+	},
+	"프라하": {
+		"family": 220,
+		"couple": 807,
+		"friends": 16,
+		"solo": 107,
+		"business": 73
+	},
+	"코타키나발루": {
+		"family": 185,
+		"couple": 7,
+		"friends": 31,
+		"solo": 5,
+		"business": 1
+	},
+	"블라디보스토크": {
+		"family": 25,
+		"couple": 21,
+		"friends": 2,
+		"solo": 21,
+		"business": 15
+	},
+	"팜스프링스": {
+		"family": 12,
+		"couple": 259,
+		"friends": 9,
+		"solo": 14,
+		"business": 8
+	},
+	"보라카이": {
+		"family": 231,
+		"couple": 397,
+		"friends": 33,
+		"solo": 54,
+		"business": 8
+	},
+	"런던": {
+		"family": 9,
+		"couple": 119,
+		"friends": 3,
+		"solo": 65,
+		"business": 46
+	},
+	"울산": {
+		"family": 48,
+		"couple": 75,
+		"friends": 14,
+		"solo": 81,
+		"business": 75
+	},
+	"한": {
+		"family": 0,
+		"couple": 1,
+		"friends": 0,
+		"solo": 12,
+		"business": 11
+	},
+	"샌프란시스코": {
+		"family": 272,
+		"couple": 360,
+		"friends": 22,
+		"solo": 125,
+		"business": 121
+	},
+	"밴쿠버": {
+		"family": 25,
+		"couple": 234,
+		"friends": 3,
+		"solo": 93,
+		"business": 30
+	},
+	"세부": {
+		"family": 436,
+		"couple": 1146,
+		"friends": 194,
+		"solo": 458,
+		"business": 204
+	},
+	"오키나와": {
+		"family": 50,
+		"couple": 32,
+		"friends": 23,
+		"solo": 89,
+		"business": 12
+	},
+	"냐짱": {
+		"family": 89,
+		"couple": 285,
+		"friends": 63,
+		"solo": 112,
+		"business": 10
+	},
+	"세인트존스": {
+		"family": 7,
+		"couple": 16,
+		"friends": 2,
+		"solo": 5,
+		"business": 1
+	},
+	"포항": {
+		"family": 4,
+		"couple": 6,
+		"friends": 2,
+		"solo": 41,
+		"business": 6
+	},
+	"베를린": {
+		"family": 614,
+		"couple": 2593,
+		"friends": 82,
+		"solo": 551,
+		"business": 831
+	},
+	"목포": {
+		"family": 90,
+		"couple": 72,
+		"friends": 16,
+		"solo": 64,
+		"business": 19
+	},
+	"거제": {
+		"family": 73,
+		"couple": 2,
+		"friends": 10,
+		"solo": 11,
+		"business": 17
+	},
+	"멜버른": {
+		"family": 13,
+		"couple": 35,
+		"friends": 1,
+		"solo": 10,
+		"business": 6
+	},
+	"교토": {
+		"family": 17,
+		"couple": 60,
+		"friends": 18,
+		"solo": 195,
+		"business": 5
+	},
+	"샌디에이고": {
+		"family": 154,
+		"couple": 771,
+		"friends": 43,
+		"solo": 295,
+		"business": 258
+	},
+	"토론토": {
+		"family": 9,
+		"couple": 51,
+		"friends": 9,
+		"solo": 33,
+		"business": 23
+	},
+	"마드리드": {
+		"family": 46,
+		"couple": 51,
+		"friends": 6,
+		"solo": 11,
+		"business": 7
+	},
+	"군산": {
+		"family": 145,
+		"couple": 132,
+		"friends": 9,
+		"solo": 34,
+		"business": 37
+	},
+	"청주": {
+		"family": 10,
+		"couple": 5,
+		"friends": 6,
+		"solo": 9,
+		"business": 5
+	},
+	"시카고": {
+		"family": 13,
+		"couple": 143,
+		"friends": 1,
+		"solo": 42,
+		"business": 37
+	},
+	"두바이": {
+		"family": 246,
+		"couple": 387,
+		"friends": 38,
+		"solo": 173,
+		"business": 137
+	},
+	"쿠알라룸푸르": {
+		"family": 4,
+		"couple": 20,
+		"friends": 25,
+		"solo": 320,
+		"business": 16
+	},
+	"피렌체": {
+		"family": 14,
+		"couple": 133,
+		"friends": 0,
+		"solo": 16,
+		"business": 16
+	},
+	"골드코스트": {
+		"family": 1747,
+		"couple": 3981,
+		"friends": 147,
+		"solo": 1090,
+		"business": 728
+	},
+	"수원": {
+		"family": 14,
+		"couple": 5,
+		"friends": 4,
+		"solo": 9,
+		"business": 10
+	},
+	"앙헬레스": {
+		"family": 2,
+		"couple": 1,
+		"friends": 2,
+		"solo": 70,
+		"business": 15
+	},
+	"애틀랜틱시티": {
+		"family": 0,
+		"couple": 0,
+		"friends": 5,
+		"solo": 4,
+		"business": 4
+	},
+	"로마": {
+		"family": 26,
+		"couple": 206,
+		"friends": 15,
+		"solo": 52,
+		"business": 40
+	},
+	"보스턴": {
+		"family": 147,
+		"couple": 231,
+		"friends": 4,
+		"solo": 47,
+		"business": 41
+	},
+	"베니스": {
+		"family": 5,
+		"couple": 104,
+		"friends": 1,
+		"solo": 11,
+		"business": 5
+	},
+	"스와": {
+		"family": 2,
+		"couple": 11,
+		"friends": 0,
+		"solo": 4,
+		"business": 3
+	},
+	"잘츠부르크": {
+		"family": 253,
+		"couple": 602,
+		"friends": 17,
+		"solo": 197,
+		"business": 119
+	},
+	"포레스트": {
+		"family": 13,
+		"couple": 3,
+		"friends": 0,
+		"solo": 5,
+		"business": 4
+	},
+	"포트 맥머리": {
+		"family": 5,
+		"couple": 37,
+		"friends": 0,
+		"solo": 29,
+		"business": 35
+	},
+	"비엔나": {
+		"family": 19,
+		"couple": 182,
+		"friends": 5,
+		"solo": 25,
+		"business": 13
+	},
+	"시애틀": {
+		"family": 32,
+		"couple": 249,
+		"friends": 11,
+		"solo": 130,
+		"business": 56
+	},
+	"암스테르담": {
+		"family": 2,
+		"couple": 107,
+		"friends": 3,
+		"solo": 11,
+		"business": 2
+	},
+	"비엔티안": {
+		"family": 5,
+		"couple": 21,
+		"friends": 26,
+		"solo": 551,
+		"business": 18
+	},
+	"진주": {
+		"family": 12,
+		"couple": 8,
+		"friends": 4,
+		"solo": 23,
+		"business": 12
+	},
+	"프랑크푸르트 암 마인": {
+		"family": 605,
+		"couple": 1423,
+		"friends": 87,
+		"solo": 505,
+		"business": 798
+	},
+	"치앙마이": {
+		"family": 46,
+		"couple": 300,
+		"friends": 41,
+		"solo": 81,
+		"business": 3
+	},
+	"호이안": {
+		"family": 46,
+		"couple": 251,
+		"friends": 38,
+		"solo": 110,
+		"business": 4
+	},
+	"나고야": {
+		"family": 344,
+		"couple": 429,
+		"friends": 58,
+		"solo": 120,
+		"business": 133
+	},
+	"홍천": {
+		"family": 31,
+		"couple": 17,
+		"friends": 5,
+		"solo": 7,
+		"business": 4
+	},
+	"밴프": {
+		"family": 529,
+		"couple": 778,
+		"friends": 52,
+		"solo": 77,
+		"business": 30
+	},
+	"뮌헨": {
+		"family": 755,
+		"couple": 524,
+		"friends": 63,
+		"solo": 282,
+		"business": 464
+	},
+	"천안": {
+		"family": 38,
+		"couple": 67,
+		"friends": 4,
+		"solo": 66,
+		"business": 93
+	},
+	"고양": {
+		"family": 16,
+		"couple": 15,
+		"friends": 6,
+		"solo": 42,
+		"business": 47
+	},
+	"프놈펜": {
+		"family": 146,
+		"couple": 1076,
+		"friends": 55,
+		"solo": 251,
+		"business": 112
+	},
+	"오클랜드": {
+		"family": 11,
+		"couple": 62,
+		"friends": 2,
+		"solo": 11,
+		"business": 10
+	},
+	"하코네": {
+		"family": 246,
+		"couple": 225,
+		"friends": 69,
+		"solo": 209,
+		"business": 20
+	},
+	"벳푸": {
+		"family": 155,
+		"couple": 78,
+		"friends": 18,
+		"solo": 10,
+		"business": 4
+	},
+	"용인": {
+		"family": 2,
+		"couple": 1,
+		"friends": 0,
+		"solo": 2,
+		"business": 2
+	},
+	"워싱턴": {
+		"family": 15,
+		"couple": 100,
+		"friends": 0,
+		"solo": 8,
+		"business": 9
+	},
+	"울릉도": {
+		"family": 11,
+		"couple": 2,
+		"friends": 1,
+		"solo": 4,
+		"business": 3
+	},
+	"안동": {
+		"family": 112,
+		"couple": 32,
+		"friends": 4,
+		"solo": 13,
+		"business": 12
+	},
+	"수안보": {
+		"family": 3,
+		"couple": 9,
+		"friends": 0,
+		"solo": 14,
+		"business": 8
+	},
+	"양양": {
+		"family": 47,
+		"couple": 17,
+		"friends": 4,
+		"solo": 6,
+		"business": 1
+	},
+	"순천": {
+		"family": 35,
+		"couple": 12,
+		"friends": 4,
+		"solo": 12,
+		"business": 6
+	},
+	"뭄바이": {
+		"family": 680,
+		"couple": 1297,
+		"friends": 123,
+		"solo": 629,
+		"business": 575
+	},
+	"세도나": {
+		"family": 13,
+		"couple": 300,
+		"friends": 2,
+		"solo": 14,
+		"business": 5
+	},
+	"동해": {
+		"family": 28,
+		"couple": 17,
+		"friends": 10,
+		"solo": 14,
+		"business": 5
+	},
+	"포지타노": {
+		"family": 32,
+		"couple": 125,
+		"friends": 6,
+		"solo": 12,
+		"business": 0
+	},
+	"브리즈번": {
+		"family": 202,
+		"couple": 421,
+		"friends": 30,
+		"solo": 130,
+		"business": 153
+	},
+	"배틀그라운드": {
+		"family": 0,
+		"couple": 1,
+		"friends": 0,
+		"solo": 6,
+		"business": 6
+	},
+	"우레시노": {
+		"family": 70,
+		"couple": 59,
+		"friends": 16,
+		"solo": 12,
+		"business": 1
+	},
+	"무주": {
+		"family": 23,
+		"couple": 25,
+		"friends": 11,
+		"solo": 21,
+		"business": 3
+	},
+	"코인": {
+		"family": 7,
+		"couple": 19,
+		"friends": 1,
+		"solo": 6,
+		"business": 5
+	},
+	"재스퍼": {
+		"family": 39,
+		"couple": 24,
+		"friends": 7,
+		"solo": 0,
+		"business": 0
+	},
+	"호놀룰루": {
+		"family": 64,
+		"couple": 34,
+		"friends": 0,
+		"solo": 5,
+		"business": 0
+	},
+	"데스틴": {
+		"family": 53,
+		"couple": 26,
+		"friends": 2,
+		"solo": 13,
+		"business": 13
+	},
+	"안산": {
+		"family": 19,
+		"couple": 34,
+		"friends": 4,
+		"solo": 17,
+		"business": 17
+	},
+	"김해": {
+		"family": 12,
+		"couple": 26,
+		"friends": 1,
+		"solo": 20,
+		"business": 27
+	},
+	"오크우드": {
+		"family": 22,
+		"couple": 44,
+		"friends": 2,
+		"solo": 21,
+		"business": 14
+	},
+	"마이애미": {
+		"family": 1252,
+		"couple": 421,
+		"friends": 125,
+		"solo": 99,
+		"business": 112
+	},
+	"호스": {
+		"family": 22,
+		"couple": 130,
+		"friends": 1,
+		"solo": 19,
+		"business": 9
+	},
+	"항동": {
+		"family": 3,
+		"couple": 4,
+		"friends": 0,
+		"solo": 6,
+		"business": 5
+	},
+	"미란다": {
+		"family": 26,
+		"couple": 11,
+		"friends": 1,
+		"solo": 1,
+		"business": 2
+	},
+	"빅토리아": {
+		"family": 19,
+		"couple": 213,
+		"friends": 3,
+		"solo": 14,
+		"business": 7
+	},
+	"평창": {
+		"family": 68,
+		"couple": 22,
+		"friends": 4,
+		"solo": 1,
+		"business": 1
+	},
+	"상트페테르부르크": {
+		"family": 54,
+		"couple": 10,
+		"friends": 10,
+		"solo": 5,
+		"business": 4
+	},
+	"휘슬러": {
+		"family": 645,
+		"couple": 1555,
+		"friends": 84,
+		"solo": 159,
+		"business": 40
+	},
+	"안양": {
+		"family": 13,
+		"couple": 4,
+		"friends": 4,
+		"solo": 8,
+		"business": 7
+	},
+	"자일": {
+		"family": 0,
+		"couple": 3,
+		"friends": 0,
+		"solo": 6,
+		"business": 6
+	},
+	"선 밸리": {
+		"family": 2,
+		"couple": 2,
+		"friends": 0,
+		"solo": 3,
+		"business": 3
+	},
+	"하나": {
+		"family": 13,
+		"couple": 263,
+		"friends": 3,
+		"solo": 10,
+		"business": 0
+	},
+	"남원": {
+		"family": 10,
+		"couple": 13,
+		"friends": 3,
+		"solo": 40,
+		"business": 3
+	},
+	"니스": {
+		"family": 26,
+		"couple": 32,
+		"friends": 2,
+		"solo": 10,
+		"business": 3
+	},
+	"창원": {
+		"family": 54,
+		"couple": 41,
+		"friends": 6,
+		"solo": 51,
+		"business": 54
+	},
+	"캘거리": {
+		"family": 314,
+		"couple": 372,
+		"friends": 13,
+		"solo": 190,
+		"business": 118
+	},
+	"두라도스": {
+		"family": 4,
+		"couple": 1,
+		"friends": 0,
+		"solo": 0,
+		"business": 0
+	},
+	"칸쿤": {
+		"family": 24,
+		"couple": 63,
+		"friends": 9,
+		"solo": 19,
+		"business": 4
+	},
+	"하이퐁": {
+		"family": 53,
+		"couple": 282,
+		"friends": 41,
+		"solo": 133,
+		"business": 47
+	},
+	"세종": {
+		"family": 1,
+		"couple": 0,
+		"friends": 5,
+		"solo": 73,
+		"business": 15
+	},
+	"오타루": {
+		"family": 47,
+		"couple": 43,
+		"friends": 11,
+		"solo": 31,
+		"business": 0
+	},
+	"오슬로": {
+		"family": 20,
+		"couple": 181,
+		"friends": 6,
+		"solo": 84,
+		"business": 74
+	},
+	"옥스퍼드": {
+		"family": 15,
+		"couple": 295,
+		"friends": 4,
+		"solo": 60,
+		"business": 42
+	},
+	"힐튼 헤드 아일랜드": {
+		"family": 30,
+		"couple": 11,
+		"friends": 0,
+		"solo": 3,
+		"business": 2
+	},
+	"시크": {
+		"family": 1,
+		"couple": 6,
+		"friends": 0,
+		"solo": 9,
+		"business": 10
+	},
+	"브루": {
+		"family": 19,
+		"couple": 18,
+		"friends": 2,
+		"solo": 7,
+		"business": 5
+	},
+	"자카르타": {
+		"family": 56,
+		"couple": 84,
+		"friends": 5,
+		"solo": 32,
+		"business": 39
+	},
+	"셰리든": {
+		"family": 8,
+		"couple": 47,
+		"friends": 0,
+		"solo": 5,
+		"business": 3
+	},
+	"올랜도": {
+		"family": 257,
+		"couple": 46,
+		"friends": 6,
+		"solo": 6,
+		"business": 15
+	},
+	"밀라노": {
+		"family": 225,
+		"couple": 364,
+		"friends": 15,
+		"solo": 66,
+		"business": 73
+	},
+	"달랏": {
+		"family": 2,
+		"couple": 41,
+		"friends": 27,
+		"solo": 350,
+		"business": 3
+	},
+	"버지니아비치": {
+		"family": 768,
+		"couple": 598,
+		"friends": 23,
+		"solo": 102,
+		"business": 68
+	},
+	"몬트리올": {
+		"family": 10,
+		"couple": 154,
+		"friends": 4,
+		"solo": 25,
+		"business": 8
+	},
+	"퀘벡": {
+		"family": 54,
+		"couple": 213,
+		"friends": 4,
+		"solo": 69,
+		"business": 18
+	},
+	"의정부": {
+		"family": 5,
+		"couple": 5,
+		"friends": 0,
+		"solo": 13,
+		"business": 7
+	},
+	"리스본": {
+		"family": 34,
+		"couple": 561,
+		"friends": 15,
+		"solo": 60,
+		"business": 23
+	},
+	"로터루아": {
+		"family": 79,
+		"couple": 183,
+		"friends": 9,
+		"solo": 10,
+		"business": 7
+	},
+	"노보리베츠": {
+		"family": 18,
+		"couple": 23,
+		"friends": 3,
+		"solo": 4,
+		"business": 4
+	},
+	"퍼스": {
+		"family": 3,
+		"couple": 74,
+		"friends": 1,
+		"solo": 35,
+		"business": 13
+	},
+	"울란바토르": {
+		"family": 32,
+		"couple": 142,
+		"friends": 43,
+		"solo": 190,
+		"business": 17
+	},
+	"인터라켄": {
+		"family": 66,
+		"couple": 74,
+		"friends": 10,
+		"solo": 9,
+		"business": 9
+	},
+	"가평": {
+		"family": 37,
+		"couple": 36,
+		"friends": 5,
+		"solo": 4,
+		"business": 0
+	},
+	"오션 시티": {
+		"family": 154,
+		"couple": 294,
+		"friends": 11,
+		"solo": 34,
+		"business": 31
+	},
+	"온타리오": {
+		"family": 38,
+		"couple": 42,
+		"friends": 2,
+		"solo": 16,
+		"business": 12
+	},
+	"요코하마": {
+		"family": 31,
+		"couple": 86,
+		"friends": 26,
+		"solo": 539,
+		"business": 109
+	},
+	"인제": {
+		"family": 106,
+		"couple": 31,
+		"friends": 9,
+		"solo": 9,
+		"business": 0
+	},
+	"웨스트 옐로스톤": {
+		"family": 10,
+		"couple": 105,
+		"friends": 2,
+		"solo": 10,
+		"business": 9
+	},
+	"윈덤": {
+		"family": 2,
+		"couple": 2,
+		"friends": 0,
+		"solo": 6,
+		"business": 5
+	},
+	"피닉스": {
+		"family": 189,
+		"couple": 203,
+		"friends": 5,
+		"solo": 57,
+		"business": 42
+	},
+	"베로나": {
+		"family": 70,
+		"couple": 159,
+		"friends": 9,
+		"solo": 12,
+		"business": 8
+	},
+	"마카오": {
+		"family": 776,
+		"couple": 674,
+		"friends": 91,
+		"solo": 145,
+		"business": 74
+	},
+	"아쳄": {
+		"family": 9,
+		"couple": 8,
+		"friends": 0,
+		"solo": 3,
+		"business": 4
+	},
+	"모스크바": {
+		"family": 27,
+		"couple": 33,
+		"friends": 25,
+		"solo": 534,
+		"business": 186
+	},
+	"김포": {
+		"family": 44,
+		"couple": 60,
+		"friends": 9,
+		"solo": 33,
+		"business": 38
+	},
+	"페어몬트": {
+		"family": 14,
+		"couple": 22,
+		"friends": 0,
+		"solo": 9,
+		"business": 4
+	},
+	"아스티": {
+		"family": 4,
+		"couple": 76,
+		"friends": 0,
+		"solo": 10,
+		"business": 4
+	},
+	"리베라": {
+		"family": 3,
+		"couple": 12,
+		"friends": 0,
+		"solo": 8,
+		"business": 6
+	},
+	"아구아스지린도이아": {
+		"family": 52,
+		"couple": 322,
+		"friends": 2,
+		"solo": 20,
+		"business": 18
+	},
+	"아산": {
+		"family": 7,
+		"couple": 28,
+		"friends": 2,
+		"solo": 94,
+		"business": 90
+	},
+	"부천": {
+		"family": 37,
+		"couple": 53,
+		"friends": 7,
+		"solo": 72,
+		"business": 91
+	},
+	"아부다비": {
+		"family": 888,
+		"couple": 1207,
+		"friends": 57,
+		"solo": 395,
+		"business": 332
+	},
+	"파나마 시티 비치": {
+		"family": 788,
+		"couple": 412,
+		"friends": 26,
+		"solo": 63,
+		"business": 43
+	},
+	"나폴리": {
+		"family": 14,
+		"couple": 173,
+		"friends": 9,
+		"solo": 42,
+		"business": 11
+	},
+	"기타규슈": {
+		"family": 829,
+		"couple": 539,
+		"friends": 64,
+		"solo": 468,
+		"business": 356
+	},
+	"쿠리치바": {
+		"family": 8,
+		"couple": 50,
+		"friends": 16,
+		"solo": 382,
+		"business": 105
+	},
+	"이천": {
+		"family": 8,
+		"couple": 4,
+		"friends": 0,
+		"solo": 5,
+		"business": 4
+	},
+	"소피아": {
+		"family": 82,
+		"couple": 19,
+		"friends": 22,
+		"solo": 3,
+		"business": 10
+	},
+	"에든버러": {
+		"family": 26,
+		"couple": 323,
+		"friends": 8,
+		"solo": 42,
+		"business": 18
+	},
+	"붕따우": {
+		"family": 25,
+		"couple": 98,
+		"friends": 2,
+		"solo": 24,
+		"business": 13
+	},
+	"동탄": {
+		"family": 2,
+		"couple": 1,
+		"friends": 0,
+		"solo": 2,
+		"business": 2
+	},
+	"파주": {
+		"family": 0,
+		"couple": 0,
+		"friends": 1,
+		"solo": 11,
+		"business": 3
+	},
+	"시마": {
+		"family": 134,
+		"couple": 41,
+		"friends": 11,
+		"solo": 16,
+		"business": 10
+	},
+	"라플린": {
+		"family": 1298,
+		"couple": 2449,
+		"friends": 139,
+		"solo": 333,
+		"business": 190
+	},
+	"애틀랜타": {
+		"family": 72,
+		"couple": 112,
+		"friends": 10,
+		"solo": 29,
+		"business": 27
+	},
+	"라온": {
+		"family": 9,
+		"couple": 136,
+		"friends": 6,
+		"solo": 64,
+		"business": 52
+	},
+	"베체": {
+		"family": 89,
+		"couple": 183,
+		"friends": 11,
+		"solo": 70,
+		"business": 28
+	},
+	"조잔케이": {
+		"family": 83,
+		"couple": 74,
+		"friends": 16,
+		"solo": 15,
+		"business": 1
+	},
+	"맨해튼": {
+		"family": 127,
+		"couple": 130,
+		"friends": 2,
+		"solo": 73,
+		"business": 50
+	},
+	"옥스포드": {
+		"family": 30,
+		"couple": 30,
+		"friends": 3,
+		"solo": 16,
+		"business": 17
+	},
+	"가고시마": {
+		"family": 96,
+		"couple": 97,
+		"friends": 22,
+		"solo": 156,
+		"business": 18
+	},
+	"뒤셀도르프": {
+		"family": 191,
+		"couple": 305,
+		"friends": 14,
+		"solo": 109,
+		"business": 187
+	},
+	"바기오": {
+		"family": 46,
+		"couple": 81,
+		"friends": 7,
+		"solo": 9,
+		"business": 10
+	},
+	"타가이타이": {
+		"family": 22,
+		"couple": 55,
+		"friends": 7,
+		"solo": 13,
+		"business": 6
+	},
+	"에덴": {
+		"family": 13,
+		"couple": 23,
+		"friends": 0,
+		"solo": 12,
+		"business": 8
+	}
+}
